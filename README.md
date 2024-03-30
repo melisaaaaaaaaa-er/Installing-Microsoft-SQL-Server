@@ -81,6 +81,8 @@ Enable auditing from the SQL server using the script provided.
 Make sure to run the Command Prompt as Administrator.
 
 #
+<h3>Enable Authentication Log Collection on SQL Server</h3>
+
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/22.png"/>
 
 Open SSMS and connect to the SQL server using the authentication credentials configured during the installation process.
