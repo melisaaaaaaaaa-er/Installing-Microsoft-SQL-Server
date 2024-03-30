@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/Lab%20Diagram.png"/>
 
 #
-<h2>Install SQL Server Evaluation</h2>
+<h3>Install SQL Server Evaluation</h3>
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/7.png"/>
 
