@@ -1,4 +1,4 @@
-# Installing-Microsoft-SQL-Server
+# Installing Microsoft SQL Server
 
 <h2>Purpose</h2>
 
