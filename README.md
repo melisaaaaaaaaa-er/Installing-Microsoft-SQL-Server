@@ -4,8 +4,6 @@
 
 - Install a SQL server on windows-vm to serve as an additional endpoint for adversaries to discover, attack and generate logs on the system.
 
-<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/Lab%20Diagram.png"/>
-
 #
 <h3>Install SQL Server Evaluation</h3>
 
